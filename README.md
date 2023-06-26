@@ -8,5 +8,5 @@ Download the Zip file  from the link : https://github.com/VinodVelayudan/BasicBa
 
 extract all the files and enjoy!!!😊
 
-# Sataus 
+# Status
 Task Completed
